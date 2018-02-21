@@ -240,9 +240,37 @@ Obecność w sieci jest dzisiaj kluczowa, dobry profil na LinkedIn, czy własny 
 * [4programmers](https://4programmers.net/Praca?q=&tag%5B%5D=python&remote_range=100&salary=&currency=1)
 * []()
 
-# Ciekawe blogi, vlogi
+# Ćwicz programowanie
 
-Czytaj blogi - nie tylko związane z Pythonem.
+Najprostsza odpowiedź: **pisz kod, dużo kodu**. 
+
+Ale co?
+
+Najprościej - to co się Tobie przyda:
+
+* szukasz mieszkania - napisz scrappera, który będzie codziennie sprawdzać ogłoszenia, i jeśli znajdzie odpowiednie to powiadomi Cię mailem
+* chcesz prowadzić bloga - utwórz aplikację Django
+* naucz się korzystać z API - np. wypróbuj API [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) i analizuj obrazy, rozpoznawaj twarze i emocje, rozpoznawaj mowę.
+
+Strony z pomysłami:
+
+* [1000 pomysłow - reddit](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
+* [reddit daily programmer](https://www.reddit.com/r/dailyprogrammer/) - codzienne zadania programistyczne
+* [karan mega project](https://github.com/ArkadioG/Projects) - lista zadań w różnym stopniu trudności
+* [Invent with Python Blog](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/) - pomysł na wykonanie 49 klonów gier
+* [Google Code Jam](https://code.google.com/codejam/about) - coroczny konkurs algorytmiczny, na stronie są dostępne zadania z poprzednich edycji, możesz więc sprawdzić się w dowolnej chwili.
+* [Practice Python](http://www.practicepython.org/) - zadania
+* [w3resource](https://www.w3resource.com/python-exercises/) - zadania
+
+# Ciekawe blogi, vlogi, meetupy
+
+## Uczestnicz w meetupach
+
+* [meetup.com](https://www.meetup.com/)
+* [crossweb.pl](https://crossweb.pl/)
+* [spotkania-it.pl](http://spotkania-it.pl/)
+
+## Czytaj blogi - nie tylko związane z Pythonem.
 
 <img src="https://devstyle.pl/wp-content/uploads/2017/08/devstyle-2017.png" width="300px">
 
