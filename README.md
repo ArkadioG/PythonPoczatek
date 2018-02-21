@@ -2,7 +2,7 @@
 
 Znajdziesz tutaj informacje dla osób chcących zacząć przygodę z programowaniem.
 
-Informacje te zebrane zostały dla uczestników [bezpłatnego webinara Python](https://www.facebook.com/events/2034252873514135/).
+Informacje te zebrane zostały dla uczestników [bezpłatnego webinara Python](https://www.facebook.com/events/2034252873514135/) zorganizowanego przez [infoShare Academy](http://infoshareacademy.com/).
 
 # Python
 
@@ -47,25 +47,17 @@ dokumentacja: <https://virtualenv.pypa.io/en/stable/>
 
 # Nauka Python
 
-## Youtube
+## Kursy stacjonarne
 
-### Dla zupełnie początkujących
-
-1. [Socratica](https://youtu.be/bY6m6_IIN94)
-2. [Corey Schaefer](https://www.youtube.com/user/schafer5/playlists)
-3. [Automate the boring stuff with Python](https://youtu.be/1F_OgqRuSdI)
-
-### Dla tych co już coś wiedzą
-
-1. [Prezentacje Raymonda Hettingera (core developer Python)](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
+* [infoShare Academy](http://infoshareacademy.com/)  
+kursy w Gdańsku, Warszawie, Lublinie, Krakowie, Szczecinie
 
 ## Kursy online
 
 ### Django Girls
 
-<https://tutorial.djangogirls.org/>
-
-Tutorial Python oraz Django **po polsku!**. Stwórz swoją pierwszą stronę internetową. Django Girls organizują darmowe, jednodniowe warsztaty, na których uczysz się Python'a i Django.  
+* [Tutorial Python oraz Django **po polsku!**](https://tutorial.djangogirls.org/)  
+Stwórz swoją pierwszą stronę internetową. Django Girls organizują darmowe, jednodniowe warsztaty, na których uczysz się Python'a i Django.
 **Warsztaty odbywają się również w Polsce**. Sprawdź nadchodzące wydarzenia na stronie: <https://djangogirls.org/events/>.
 
 ### edX
@@ -84,6 +76,18 @@ Tutorial Python oraz Django **po polsku!**. Stwórz swoją pierwszą stronę int
 3. Rice University - An Introduction to Interactive Programming in Python: 
   [część 1](https://www.coursera.org/learn/interactive-python-1),
   [część 2](https://www.coursera.org/learn/interactive-python-2)
+
+## Youtube
+
+### Dla zupełnie początkujących
+
+1. [Socratica](https://youtu.be/bY6m6_IIN94)
+2. [Corey Schaefer](https://www.youtube.com/user/schafer5/playlists)
+3. [Automate the boring stuff with Python](https://youtu.be/1F_OgqRuSdI)
+
+### Dla tych co już coś wiedzą
+
+1. [Prezentacje Raymonda Hettingera (core developer Python)](https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA)
 
 ## Książki
 
@@ -209,3 +213,45 @@ Roboty - pająki, zbierające informacje z internetu, n. adresy email, zdjęcia,
 Tworzenie inteligentnych kontraktów w jednym z największych blockchain'ów - [NEO](https://neo.org/).
 
 * Workshop: <https://github.com/CityOfZion/python-smart-contract-workshop>
+
+# Praca
+
+## Niech Cię znajdą!
+
+Obecność w sieci jest dzisiaj kluczowa, dobry profil na LinkedIn, czy własny blog sprawi, że rekruterzy sami bedą do Ciebie sie odzywać.
+
+* stwórz swój profil na [LinkedIn](https://www.linkedin.com/)
+  * uzupełnij wszystkie informacje
+  * nie zapomnij o zdjęciu
+  * dodaj znajome osoby do Twojej sieci - im więcej tym większa jest Twoja widoczność
+* załóż bloga, lub własną stronę - wizytówkę
+  * jeśli decydujesz się na bloga - pamiętaj aby regularnie publikować
+  * weź udział w konkursie [daj się poznać](https://devstyle.pl/daj-sie-poznac/)
+
+## Ile można zarobić
+
+* [forum 4programmers.pl](https://4programmers.net/Forum/Kariera/233131-ile_zarabiacie?page=143) - w tym wątku programiści piszą ile zarabiają
+* [wynagrodzenia.pl - zarobki programistów Python](https://wynagrodzenia.pl/moja-placa/ile-zarabia-programista-python) - mediana 6828 PLN
+* [wynagrodzenia.pl - ranking zarobków w USA wg. języka programowania](https://wynagrodzenia.pl/artykul/top-10-jezykow-programowania-z-najwyzszymi-zarobkami-w-2017-w-usa) - Python na 3 miejscu, roczne zarobki seniora ok 100.000 USD
+
+## Gdzie szukać pracy
+
+* [nofluffjobs.com](https://nofluffjobs.com/?criteria=python)
+* [4programmers](https://4programmers.net/Praca?q=&tag%5B%5D=python&remote_range=100&salary=&currency=1)
+* []()
+
+# Ciekawe blogi, vlogi
+
+Czytaj blogi - nie tylko związane z Pythonem.
+
+<img src="https://devstyle.pl/wp-content/uploads/2017/08/devstyle-2017.png" width="300px">
+
+* [devstyle.pl](https://devstyle.pl/junior/) - Największy blog w polskim, programistycznym świecie. Maciej Aniserowicz bardzo ciekawie opowiada o dobrych i złych stronach pracy programisty. Sporo uwagi poświęca początkującym programistom. Oprócz bloga, Maciej robi również:
+  * [kanał devstyle.pl na YouTube](https://www.youtube.com/channel/UCACp5rqV3Ki0SNdXWDBLhRA)
+  * [książka "Zawód programista"](http://zawodprogramista.pl/)
+  * [devtalk.pl - podcast](http://devtalk.pl/)
+  * [konkurs Daj Się Poznać](https://devstyle.pl/daj-sie-poznac/)
+
+* [Medium - platforma blogowa - artykuły nt. Python](https://medium.com/search?q=python)
+* [Planet Python - agragat blogów o tematyce Python](http://planetpython.org/)
+* [Love Python](http://love-python.blogspot.com/)
