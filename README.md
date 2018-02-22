@@ -116,6 +116,8 @@ Stwórz swoją pierwszą stronę internetową. Django Girls organizują darmowe,
 * [CodeSculptor](http://py3.codeskulptor.org/)
   * IDE online, pozwala również na tworzenie apliakcji graficznych!
   * dokumentacja: <http://py3.codeskulptor.org/docs.html>
+* [Python Tutor](http://www.pythontutor.com/)
+  * wizualizacja tego co się dzieje w pamięci podczas wykonywania instrukcji
 
 
 ## System kontroli wersji git
