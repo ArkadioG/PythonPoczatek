@@ -54,36 +54,20 @@ kursy w Gdańsku, Warszawie, Lublinie, Krakowie, Szczecinie
 
 ## Kursy online
 
-### Django Girls
+### [edX](https://www.edx.org)
 
-* [Tutorial Python oraz Django **po polsku!**](https://tutorial.djangogirls.org/)  
-Stwórz swoją pierwszą stronę internetową. Django Girls organizują darmowe, jednodniowe warsztaty, na których uczysz się Python'a i Django.
-**Warsztaty odbywają się również w Polsce**. Sprawdź nadchodzące wydarzenia na stronie: <https://djangogirls.org/events/>.
+* [Microsoft - Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-python-absolute-beginner-microsoft-dev236x-1)
+* [Microsoft - Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-8)
 
-### edX
+ ### [Coursera](https://www.coursera.org)
 
-1. [MITx - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
-2. [Microsoft - Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-python-absolute-beginner-microsoft-dev236x-1)
-3. [Microsoft - Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-python-fundamentals-microsoft-dev274x-1)
-4. [Microsoft - Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-8)
-
- Cała lista kursów z Python na edX: [kliknij tutaj](https://www.edx.org/course?search_query=python)
-
-### Coursera
-
-1. [University of Michigan - Python for Everybody Specialization](https://www.coursera.org/specializations/python) - seria kursów
-2. [University of Toronto - Learn to Program - Fundamentals](https://www.coursera.org/learn/learn-to-program)
-3. Rice University - An Introduction to Interactive Programming in Python: 
-  [część 1](https://www.coursera.org/learn/interactive-python-1),
-  [część 2](https://www.coursera.org/learn/interactive-python-2)
+* [University of Toronto - Learn to Program - Fundamentals](https://www.coursera.org/learn/learn-to-program)
 
 ## Youtube
 
 ### Dla zupełnie początkujących
 
 1. [Socratica](https://youtu.be/bY6m6_IIN94)
-2. [Corey Schaefer](https://www.youtube.com/user/schafer5/playlists)
-3. [Automate the boring stuff with Python](https://youtu.be/1F_OgqRuSdI)
 
 ### Dla tych co już coś wiedzą
 
@@ -118,7 +102,6 @@ Stwórz swoją pierwszą stronę internetową. Django Girls organizują darmowe,
   * dokumentacja: <http://py3.codeskulptor.org/docs.html>
 * [Python Tutor](http://www.pythontutor.com/)
   * wizualizacja tego co się dzieje w pamięci podczas wykonywania instrukcji
-
 
 ## System kontroli wersji git
 
@@ -244,7 +227,7 @@ Obecność w sieci jest dzisiaj kluczowa, dobry profil na LinkedIn, czy własny 
 
 # Ćwicz programowanie
 
-Najprostsza odpowiedź: **pisz kod, dużo kodu**. 
+Najprostsza odpowiedź: **pisz kod, dużo kodu**.
 
 Ale co?
 
@@ -268,6 +251,7 @@ Strony z pomysłami:
 
 ## Uczestnicz w meetupach
 
+* [infoShare po godzinach](https://www.facebook.com/pg/infoshareacademy/events/?ref=page_internal)
 * [meetup.com](https://www.meetup.com/)
 * [crossweb.pl](https://crossweb.pl/)
 * [spotkania-it.pl](http://spotkania-it.pl/)
